@@ -1,4 +1,4 @@
-# Python-Excel-Data-Entry-App
+# Python Excel Data Entry App
 
 This is a Python application that allows users to enter data manually and save it in an Excel file using the openpyxl library. The application prompts the user for input and writes the input to a new row in the Excel file.
 
